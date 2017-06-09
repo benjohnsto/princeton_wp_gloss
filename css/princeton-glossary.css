@@ -1,0 +1,20 @@
+
+
+.glossary {
+    position:relative;
+    text-decoration:underline;
+}
+
+.popup {
+    position:absolute;
+    top:-40px;
+    right:-160px;
+    width:120px;
+    background:#333;
+    color:white;
+    border:solid 1px #222;
+    display:none;
+    padding:10px;
+    border-radius: 10px;
+    /*box-shadow: 3px 3px 5px #888888;*/
+}
